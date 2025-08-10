@@ -1,0 +1,5 @@
+flask
+PyPDF2
+openai
+spacy
+rapidfuzz
